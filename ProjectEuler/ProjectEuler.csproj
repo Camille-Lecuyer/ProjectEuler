@@ -44,8 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ONE.cs" />
+    <Compile Include="PrimeThing.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TWO.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

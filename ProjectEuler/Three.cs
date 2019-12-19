@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ProjectEuler
 {
-    class Program
+    class Three
     {
-        static void Main(string[] args)
+        void problem3()
         {
             long number = 600851475143;
             long div = 2;
@@ -32,7 +32,6 @@ namespace ProjectEuler
                     }
                 }
             }
-
         }
     }
 }
